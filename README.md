@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Kim
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdodds25&count_private=true&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdodds25&hide=Roff)](https://github.com/anuraghazra/github-readme-stats)
+
 **KimDodds25/KimDodds25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
