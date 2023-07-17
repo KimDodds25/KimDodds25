@@ -2,8 +2,6 @@
 
 I'm currently an NLP Engineer at Seasalt.ai. Seasalt is a startup - I started as an intern when the company was first founded, and am the most senior of two full-time NLP engineers.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimDodds25&theme=light&background=ffffff)](https://git.io/streak-stats)
-
 ## Try out my work!
 You can try out two of the projects I have had the biggest hand in at Seasalt:
 - [SeaVoice Discord Bot](https://suite.seasalt.ai/voice/discord)
